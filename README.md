@@ -1,9 +1,8 @@
-# Css Reset constumizado
+# Css Reset customizado
 
-Todos os browsers trazem por padrão formatações de alguns elementos da HTML, com valor de margin, padding, borda, dentro outros tipos de propriedades, já que cada browser faz sua propria formatação padrão deixando assim sutis diferenças de renderização entre eles, **profissionais Front-Ends** utilizão tecnicas para zera todas as propriedades, trazendo assim a homogeneidade para os browsers, essa tecnica é chamada de **Css Reset**.
+Todos os browsers trazem por padrão formatações de alguns elementos da HTML, com valor de margin, padding, borda, dentro outros tipos de propriedades, já que cada browser faz sua própria formatação padrão deixando assim sutis diferenças de renderização entre eles, *profissionais Front-Ends* utilizam técnicas para zera todas as propriedades, trazendo assim a homogeneidade para os browsers, essa técnica é chamada de Css Reset.
 
-O Reset custom - foi baseado em duas grande e fortes tecnicas dentre muitas outras utilizadas atualmente - *Normalize e Boilerplate*. Tranzendo uma melhor renderização dos elementos e uma maior conformidade entre os browsers.
-
+O Reset custom - foi baseado em duas grande e fortes técnicas dentre muitas outras utilizadas atualmente - *Normalize e Boilerplate*. Trazendo uma melhor renderização dos elementos e uma maior conformidade entre os browsers.
 
 ## Code
 
