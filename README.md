@@ -96,7 +96,7 @@ O Reset custom - foi baseado em duas grande e fortes tecnicas dentre muitas outr
 		vertical-align: middle;
 	}
 	
-	/* * Correct overflow not hidden in IE9 */
+	/* Correct overflow not hidden in IE9 */
 	svg:not(:root) {
 		overflow: hidden;
 	}
